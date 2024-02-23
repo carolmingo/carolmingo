@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Bayer
-- 🌱 I’m currently learning HTML, CSS, JS, React, Node, SQL
+- 🔭 I’m currently searching for a job
+- 🌱 I’m currently learning Data Science and Computer Science
+- Take a look on my LinkedIn: https://www.linkedin.com/in/carol-targinodomingo/
 
 <!--
 **carolmingo/carolmingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
